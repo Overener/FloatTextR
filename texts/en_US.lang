@@ -1,0 +1,15 @@
+pack.name=Floating Text
+pack.description=Use floating texts to decorate your world.
+
+entity.custom:floating_text.name=Floating Text
+
+floattext.functions.remove.description=Remove the nearest floating text.
+floattext.functions.remove.success=Removed the nearest floating text.
+floattext.functions.remove_all.description=Remove all floating texts.
+floattext.functions.remove_all.success=Removed all floating texts.
+floattext.functions.remove_unnamed.description=Remove the nearest unnamed floating text.
+floattext.functions.remove_unnamed.success=Removed the nearest unnamed floating text.
+floattext.functions.remove_all_unnamed.description=Remove all unnamed floating texts.
+floattext.functions.remove_all_unnamed.success=Removed all unnamed floating texts.
+
+floattext.about.pack.name=Floating Text

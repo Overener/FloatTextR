@@ -1,0 +1,15 @@
+pack.name=浮空字
+pack.description=使用浮空字装饰你的世界。
+
+entity.custom:floating_text.name=浮空字
+
+floattext.functions.remove.description=移除最近的浮空字
+floattext.functions.remove.success=已移除最近的浮空字
+floattext.functions.remove_all.description=移除所有的浮空字
+floattext.functions.remove_all.success=已移除所有的浮空字
+floattext.functions.remove_unnamed.description=移除最近的未命名浮空字
+floattext.functions.remove_unnamed.success=已移除最近的未命名浮空字
+floattext.functions.remove_all_unnamed.description=移除所有的未命名浮空字
+floattext.functions.remove_all_unnamed.success=已移除所有的未命名浮空字
+
+floattext.about.pack.name=浮空字

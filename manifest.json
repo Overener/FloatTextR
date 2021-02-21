@@ -1,0 +1,23 @@
+{
+  "format_version": 2,
+  "header": {
+    "description": "pack.description",
+    "name": "pack.name",
+    "uuid": "4b473b11-7b93-4a76-9f3c-bd8485a0f829",
+    "version": [1, 0, 0],
+    "min_engine_version": [1, 16, 200]
+  },
+  "modules": [
+    {
+      "description": "Floating Text",
+      "type": "resources",
+      "uuid": "1b6115c8-dd0a-4e97-9d7b-7af564ec3c29",
+      "version": [1, 0, 0]
+    }
+  ],
+  "metadata": {
+    "authors": ["Overener"],
+    "license": "GNU General Public License",
+    "url": "https://github.com/Overener/FloatTextR"
+  }
+}
